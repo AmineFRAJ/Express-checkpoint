@@ -1,0 +1,32 @@
+/* style.css */
+
+body {
+  font-family: Arial, sans-serif;
+}
+nav {
+  background-color: #f0f0f0; /* Light gray background color */
+  padding: 10px 0; /* Optional padding for the navigation bar */
+}
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin-left: 20px;
+
+}
+
+nav li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+}
+
+nav a:hover {
+  color: blue;
+}
+h3{margin-left: 20px;
+  color: red;
+}
